@@ -1,0 +1,6 @@
+backup_type = full-backuped
+from_lsn = 0
+to_lsn = 2930432055
+last_lsn = 2930432055
+compact = 0
+recover_binlog_info = 0
